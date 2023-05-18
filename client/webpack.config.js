@@ -3,8 +3,6 @@ const WebpackPwaManifest = require('webpack-pwa-manifest');
 const path = require('path');
 const { InjectManifest } = require('workbox-webpack-plugin');
 
-// TODO: Make sure plugin info is all accurate
-
 module.exports = () => {
   return {
     mode: 'development',
