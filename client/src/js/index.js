@@ -1,6 +1,6 @@
 import { Workbox } from 'workbox-window';
-import Editor from './editor';
-import './database';
+import Editor from './Editor';
+import './Database';
 import '../css/style.css';
 
 const main = document.querySelector('#main');
