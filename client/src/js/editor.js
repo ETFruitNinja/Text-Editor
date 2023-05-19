@@ -1,6 +1,6 @@
 // Import methods to save and get data from the indexedDB database in './database.js'
-import { getDb, putDb } from './database';
-import { header } from './header';
+import { getDb, putDb } from './Database';
+import { header } from './Header';
 
 export default class {
   constructor() {
