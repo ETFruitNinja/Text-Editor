@@ -20,6 +20,8 @@ N/A
 
 Type any text in the editor, and the text will save automatically. Click the "Install" button the install the application for offline use.
 
+![alt=text-editor-screenshot](./screenshot.PNG)
+
 ## License
 
 N/A
